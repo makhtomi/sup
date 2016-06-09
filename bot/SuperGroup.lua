@@ -232,7 +232,8 @@ function create_config( )
 	"whitelist",
 	"msg_checks",
         "write",
-        "plugins"
+        "plugins",
+        "up"
         
     },
     sudo_users = {Your Id},--Sudo users
